@@ -191,4 +191,3 @@ print(faizal.pick_plan("Basic Plan", "shandy-2134"))
 
 # faizal.pick_plan("Basic Plan", "indira-22gs")
 # yang ini akan error karena tidak ada referal code dengan code "indira-22gs"
- 
